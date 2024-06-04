@@ -2,11 +2,11 @@
 
 A bachelor's degree in Telecommunications Engineering from the university UNFV (Universidad Nacional Federico Villareal). 👨🏻‍💻 
 ### 📚 My current knwoledgment and experience:
-* I have a enough experience in Networking, CCTV, Storage and Data Center Facilities.
+* I have a enough experience in Networking, CCTV, Storage , Data Center Facilities and Cloud Computing, with AWS.
 * At the time, I had been designed and implemented ITC projects.
 
 ### 💼  Things that I'm currently working on: 
-* Taking a Google Cloud Platform course, to earn the Google Cloud Architect Certification. 
+* Taking a Google Cloud Platform course, to earn the AWS Cloud Solutions Architect Professional Certification. 
 * Learning about Cloud Technologies (AWS Cloud, GCP, Azure)
 * Learning aboud CI/CD pipeline (Jenkins, AWS Code Pipeline)
 * Learning about Containerization and IaC (Docker, Kubernetes, Terraform, Ansible)
